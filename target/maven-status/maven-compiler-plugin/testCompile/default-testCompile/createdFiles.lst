@@ -1,0 +1,13 @@
+com\duoc\backend\Bus\BusTest.class
+com\duoc\backend\BusControllerIntegrationTest.class
+com\duoc\backend\Paradero\ParaderoControllerTest$MockParaderoModel.class
+com\duoc\backend\Bus\BusControllerTest.class
+com\duoc\backend\BackendApplicationTests.class
+com\duoc\backend\Paradero\ParaderoControllerTest.class
+com\duoc\backend\Pasajero\PasajeroControllerTest$MockPasajeroModel.class
+com\duoc\backend\Ruta\RutaControllerTest.class
+com\duoc\backend\Ruta\RutaTest.class
+com\duoc\backend\Pasajero\PasajeroControllerTest.class
+com\duoc\backend\Pasajero\PasajeroTest.class
+com\duoc\backend\Paradero\ParaderoTest.class
+com\duoc\backend\Ruta\RutaControllerTest$MockRutaModel.class
